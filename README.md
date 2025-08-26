@@ -1,4 +1,4 @@
-
+# Abstract Chain RPS Game Smart Contract
 A decentralized Rock, Paper, Scissors game smart contract designed to run on Abstract Chain. This contract implements a commitment scheme to ensure fair play and prevent cheating.
 
 ## Features
@@ -40,7 +40,7 @@ A decentralized Rock, Paper, Scissors game smart contract designed to run on Abs
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/rustjesty/abstract-chain-rps-game-smart-contract
 cd abstract-smart-contract
 ```
 
