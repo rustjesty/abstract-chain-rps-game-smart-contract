@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Rock, Paper, Scissors smart contract for Abstract Chain",
   "main": "index.js",
+  "author": "Soljesty",
   "scripts": {
     "compile": "hardhat compile",
     "test": "hardhat test",
@@ -24,7 +25,6 @@
     "game",
     "abstract-chain"
   ],
-  "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
