@@ -211,3 +211,6 @@ For support and questions about Abstract Chain integration, please refer to the 
 ## Disclaimer
 
 This smart contract is provided as-is for educational and development purposes. Always audit smart contracts before using them with real funds on mainnet.
+
+## Contact
+https://t.me/soljesty
