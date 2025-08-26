@@ -41,7 +41,7 @@ A decentralized Rock, Paper, Scissors game smart contract designed to run on Abs
 1. Clone the repository:
 ```bash
 git clone https://github.com/rustjesty/abstract-chain-rps-game-smart-contract
-cd abstract-smart-contract
+cd abstract-chain-rps-game-smart-contract
 ```
 
 2. Install dependencies:
