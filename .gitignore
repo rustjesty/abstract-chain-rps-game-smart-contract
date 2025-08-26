@@ -6,4 +6,6 @@ scripts/
 .env.test.local
 .env.production.local
 hardhat.config.ts
-RPSGame.sol
+env.example
+.env.example
+frontend/
